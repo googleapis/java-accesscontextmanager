@@ -1,5 +1,18 @@
 # Changelog
 
+### [1.1.2](https://www.github.com/googleapis/java-accesscontextmanager/compare/v1.1.1...v1.1.2) (2021-07-09)
+
+
+### Bug Fixes
+
+* Add `shopt -s nullglob` to dependencies script ([#205](https://www.github.com/googleapis/java-accesscontextmanager/issues/205)) ([69718de](https://www.github.com/googleapis/java-accesscontextmanager/commit/69718de23c70ebc482c049158f9feaa087b94b59))
+* Update dependencies.sh to not break on mac ([#202](https://www.github.com/googleapis/java-accesscontextmanager/issues/202)) ([63dae8d](https://www.github.com/googleapis/java-accesscontextmanager/commit/63dae8d96eeb6ceb9aa26c4dcb04048574528a54))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v1.4.0 ([#206](https://www.github.com/googleapis/java-accesscontextmanager/issues/206)) ([a51ec60](https://www.github.com/googleapis/java-accesscontextmanager/commit/a51ec60a5946f40cbcf8a461dab98d6ddeea7a5a))
+
 ### [1.1.1](https://www.github.com/googleapis/java-accesscontextmanager/compare/v1.1.0...v1.1.1) (2021-06-04)
 
 
