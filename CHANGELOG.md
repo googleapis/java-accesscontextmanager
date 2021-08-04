@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/googleapis/java-accesscontextmanager/compare/v1.1.1...v1.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#216](https://www.github.com/googleapis/java-accesscontextmanager/issues/216)) ([c7d9cb9](https://www.github.com/googleapis/java-accesscontextmanager/commit/c7d9cb9f5ff718ba75e8226e264b296c4c15a93b))
+
 ### [1.1.1](https://www.github.com/googleapis/java-accesscontextmanager/compare/v1.1.0...v1.1.1) (2021-06-04)
 
 
