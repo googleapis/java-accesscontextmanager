@@ -4,7 +4,7 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-accesscontextmanager.git",
-        "sha": "524627c5da5a535292beb81288bcbc805ab59d65"
+        "sha": "0b55acdbca8e21c79f21baa9d763fc8d5552be54"
       }
     },
     {
