@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.5](https://github.com/googleapis/java-accesscontextmanager/compare/v1.4.4...v1.4.5) (2022-10-04)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([2daf1f0](https://github.com/googleapis/java-accesscontextmanager/commit/2daf1f0b6f8ff412b520553b704c83b8d5d3b8f5))
+
 ## [1.4.4](https://github.com/googleapis/java-accesscontextmanager/compare/v1.4.3...v1.4.4) (2022-10-03)
 
 
