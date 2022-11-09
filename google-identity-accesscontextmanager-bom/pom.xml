@@ -80,7 +80,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-identity-accesscontextmanager-type</artifactId>
-        <version>1.4.6-SNAPSHOT</version><!-- {x-version-update:proto-google-identity-accesscontextmanager-type:current} -->
+        <version>1.6.0</version><!-- {x-version-update:proto-google-identity-accesscontextmanager-type:current} -->
       </dependency>
     </dependencies>
   </dependencyManagement>
