@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-identity-accesscontextmanager-parent</artifactId>
-    <version>1.4.6-SNAPSHOT</version><!-- {x-version-update:google-identity-accesscontextmanager:current} -->
+    <version>1.6.0</version><!-- {x-version-update:google-identity-accesscontextmanager:current} -->
   </parent>
   <properties>
     <site.installationModule>google-identity-accesscontextmanager</site.installationModule>
