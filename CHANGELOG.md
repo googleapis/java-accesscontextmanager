@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.6](https://github.com/googleapis/java-accesscontextmanager/compare/v1.4.5...v1.4.6) (2023-03-23)
+
+
+### Dependencies
+
+* Update dependency com.google.api.grpc:grpc-google-identity-accesscontextmanager-v1 to v1.5.0 ([#411](https://github.com/googleapis/java-accesscontextmanager/issues/411)) ([2d2f948](https://github.com/googleapis/java-accesscontextmanager/commit/2d2f9488829c69235b61ff2952e1a9dc16e7da30))
+* Update dependency com.google.api.grpc:proto-google-identity-accesscontextmanager-type to v1.5.0 ([#412](https://github.com/googleapis/java-accesscontextmanager/issues/412)) ([24a5455](https://github.com/googleapis/java-accesscontextmanager/commit/24a5455923b49845ac1fc9bd01db5072461bf347))
+* Update dependency com.google.cloud:google-cloud-shared-dependencies to v3.0.6 ([#416](https://github.com/googleapis/java-accesscontextmanager/issues/416)) ([b9d41d7](https://github.com/googleapis/java-accesscontextmanager/commit/b9d41d75d2cd478bfe875c9dd0cab721bd8564f5))
+
 ## [1.4.5](https://github.com/googleapis/java-accesscontextmanager/compare/v1.4.4...v1.4.5) (2022-10-04)
 
 
